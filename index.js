@@ -5,5 +5,7 @@ var metaMarked = require('meta-marked');
 
 module.exports = function (markdown) {
   this.cacheable();
-  return metaMarked(markdown);
+  var result = metaMarked(markdown);
+  delete result.markdown;
+  return result;
 };
