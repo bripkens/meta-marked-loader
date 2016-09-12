@@ -1,6 +1,6 @@
 {
   "name": "meta-marked-loader",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "meta-marked-loader for webpack",
   "main": "index.js",
   "repository": {
