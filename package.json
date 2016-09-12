@@ -1,0 +1,28 @@
+{
+  "name": "meta-marked-loader",
+  "version": "1.0.0",
+  "description": "meta-marked-loader for webpack",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bripkens/meta-marked-loader"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "markdown",
+    "html",
+    "meta",
+    "marked",
+    "yaml"
+  ],
+  "author": "Ben Ripkens <bripkens.dev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bripkens/meta-marked-loader/issues"
+  },
+  "homepage": "https://github.com/bripkens/meta-marked-loader",
+  "dependencies": {
+    "meta-marked": "0.4.2"
+  }
+}
